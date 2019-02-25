@@ -9,9 +9,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 1
   m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: sand_green_internal_top_left
+  m_Name: tiles_sheet_2
   m_EditorClassIdentifier: 
-  m_Sprite: {fileID: 21300010, guid: f17d0feae45de477b8d643848b72032f, type: 3}
+  m_Sprite: {fileID: 21300004, guid: f17d0feae45de477b8d643848b72032f, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Transform:
     e00: 1
